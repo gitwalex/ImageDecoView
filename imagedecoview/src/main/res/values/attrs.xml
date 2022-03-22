@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageDecoView">
+        <attr name="arcColor" format="color" />
+        <attr name="fullArc" format="boolean" />
+        <attr name="dv_lineWidth" />
+
+        <attr name="placeholder" format="reference" />
+        <attr name="dv_image" format="reference" />
+
+        <attr name="dv_text" format="string|reference" />
+        <attr name="dv_textColor" format="color" />
+        <attr name="dv_textBackground" format="color" />
+    </declare-styleable>
+</resources>
